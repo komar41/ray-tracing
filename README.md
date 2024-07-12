@@ -11,7 +11,7 @@ This project implements a ray tracer using JavaScript. The application renders 3
 - **Tools used:** WebGL, JavaScript, HTML, CSS
 
 ## How to Use
-1. Visit the live demo or run the project locally.
+1. Visit the [live demo](https://komar41.github.io/shadow-maps-webgl/) or run the project locally.
 2. Use the configuration panel to upload a JSON scene file (e.g., [scene 1](https://github.com/komar41/ray-tracing/blob/main/scene-1.json) or [scene 2](https://github.com/komar41/ray-tracing/blob/main/scene-2.json)).
 3. Adjust rendering settings using the provided controls.
 4. Explore the rendered scene on the canvas.

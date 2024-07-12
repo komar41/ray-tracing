@@ -31,18 +31,23 @@ This project implements a ray tracer using JavaScript. The application renders 3
 * Calculates shadows for realistic light interactions
 
 After adding ambient, rendered scene should look like the following:
+
 <img src="ambient.png" alt="Ambient component" width="50%">
 
 After adding diffuse, rendered scene should look like the following:
+
 <img src="diffuse.png" alt="Diffuse component" width="50%">
 
 After adding specular, rendered scene should look like the following:
+
 <img src="specular.png" alt="Specular component" width="50%">
 
 Rendered scene with reflection considering a max depth of 1 should look like following:
+
 <img src="reflection_1.png" alt="Reflection component (depth 1)" width="50%">
 
 Rendered scene with reflection considering a max depth of 5 should look like following:
+
 <img src="reflection_5.png" alt="Reflection component (depth 5)" width="50%">
 
 ### Customizable Scene Rendering

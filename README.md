@@ -6,8 +6,8 @@ This project implements a ray tracer using JavaScript. The application renders 3
 
 ![Assignment 3 example](raytracer.png)
 
-- **Access this project:** https://komar41.github.io/shadow-maps-webgl/
-- **GitHub Repository:** https://github.com/komar41/shadow-maps-webgl/
+- **Access this project:** https://komar41.github.io/ray-tracing
+- **GitHub Repository:** https://github.com/komar41/ray-tracing
 - **Tools used:** WebGL, JavaScript, HTML, CSS
 
 ## How to Use
